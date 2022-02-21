@@ -9,7 +9,7 @@
 @{
 
 # Script module or binary module file associated with this manifest.
-RootModule = '.\GraphEmailSender.psm1'
+RootModule = 'GraphEmailSender.psm1'
 
 # Version number of this module.
 ModuleVersion = '0.1.2'
